@@ -1,0 +1,18 @@
+[
+    {
+      "cat_id": "01",
+      "name": "Men's"
+    },
+    {
+      "cat_id": "02",
+      "name": "Women's"
+    },
+    {
+      "cat_id": "03",
+      "name": "Children"
+    },
+    {
+      "cat_id": "04",
+      "name": "All"
+    }
+  ]
